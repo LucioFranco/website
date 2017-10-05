@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Apply",""],["CompiledPass",""],["Supplier","Is used to pass different `Encoder` and `Effect` into closure in different threads"]],"trait":[["Pass",""],["PassApply",""],["PassData",""]]});

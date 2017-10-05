@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["FPSCounter","The FPSCounter resource needed by the FPSCounterSystem ## Examples Add it to your resources to be able to use the FPSCounterSystem world.add_resource(FPSCounter::new(20));"]]});
